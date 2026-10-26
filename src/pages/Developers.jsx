@@ -1,7 +1,7 @@
 const developers = [
-  { initials: "KS", name: "Kenji Sarmiento", role: "Developer", color: "blue" },
+  { initials: "KS", name: "Kenji Sarmiento", role: "Project Member", color: "blue" },
   { initials: "CP", name: "Emmanuel Caparos", role: "Project Member", color: "purple" },
-  { initials: "P", name: "Julius Pansoy", role: "Project Member", color: "green" },
+  { initials: "P", name: "Julius Pansoy", role: "Developer", color: "green" },
   { initials: "G", name: "John Harrod Gayas", role: "Project Member", color: "orange" },
 ];
 export default function Developers() {
